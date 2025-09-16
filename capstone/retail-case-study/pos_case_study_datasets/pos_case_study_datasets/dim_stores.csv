@@ -1,0 +1,13 @@
+StoreID,StoreName,Region,City,State,OpenDate,SquareFeet
+1,Store-001,North,Delhi,IN,2022-01-29,2149
+2,Store-002,East,Kolkata,IN,2020-08-16,1958
+3,Store-003,South,Hyderabad,IN,2020-04-14,2194
+4,Store-004,Central,Bhopal,IN,2021-08-27,2456
+5,Store-005,West,Mumbai,IN,2020-01-31,1929
+6,Store-006,North,Delhi,IN,2020-08-26,1929
+7,Store-007,Central,Indore,IN,2020-01-28,2473
+8,Store-008,Central,Bhopal,IN,2022-01-03,2230
+9,Store-009,Central,Nagpur,IN,2020-08-13,1859
+10,Store-010,West,Ahmedabad,IN,2020-10-11,2162
+11,Store-011,North,Delhi,IN,2021-12-15,1860
+12,Store-012,West,Pune,IN,2020-10-11,1860

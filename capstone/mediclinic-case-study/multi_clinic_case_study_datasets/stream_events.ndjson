@@ -1,0 +1,300 @@
+{"event_id": 1, "event_type": "vitals_update", "patient_id": 448, "timestamp": "2025-09-12 19:54:41", "details": {"bp": 128, "hr": 82, "glucose": 133.8}}
+{"event_id": 2, "event_type": "vitals_update", "patient_id": 399, "timestamp": "2025-09-01 04:12:21", "details": {"bp": 91, "hr": 103, "glucose": 100.7}}
+{"event_id": 3, "event_type": "vitals_update", "patient_id": 801, "timestamp": "2025-09-10 06:50:16", "details": {}}
+{"event_id": 4, "event_type": "appointment_created", "patient_id": 608, "timestamp": "2025-08-26 14:09:43", "details": {"bp": 94, "hr": 77, "glucose": 74.8}}
+{"event_id": 5, "event_type": "appointment_created", "patient_id": 947, "timestamp": "2025-09-03 22:57:11", "details": {}}
+{"event_id": 6, "event_type": "vitals_update", "patient_id": 423, "timestamp": "2025-09-05 13:42:04", "details": {}}
+{"event_id": 7, "event_type": "vitals_update", "patient_id": 362, "timestamp": "2025-08-19 10:31:42", "details": {"bp": 138, "hr": 60, "glucose": 157.2}}
+{"event_id": 8, "event_type": "vitals_update", "patient_id": 408, "timestamp": "2025-09-10 18:55:18", "details": {"bp": 151, "hr": 98, "glucose": 76.8}}
+{"event_id": 9, "event_type": "appointment_created", "patient_id": 880, "timestamp": "2025-08-30 22:44:29", "details": {"bp": 109, "hr": 95, "glucose": 157.0}}
+{"event_id": 10, "event_type": "appointment_created", "patient_id": 830, "timestamp": "2025-08-27 17:17:43", "details": {}}
+{"event_id": 11, "event_type": "vitals_update", "patient_id": 128, "timestamp": "2025-08-31 21:43:20", "details": {}}
+{"event_id": 12, "event_type": "appointment_created", "patient_id": 561, "timestamp": "2025-09-03 09:39:17", "details": {}}
+{"event_id": 13, "event_type": "appointment_created", "patient_id": 218, "timestamp": "2025-08-30 23:36:34", "details": {"bp": 101, "hr": 101, "glucose": 94.2}}
+{"event_id": 14, "event_type": "appointment_created", "patient_id": 790, "timestamp": "2025-08-25 14:54:33", "details": {"bp": 139, "hr": 91, "glucose": 83.2}}
+{"event_id": 15, "event_type": "appointment_created", "patient_id": 535, "timestamp": "2025-09-12 11:31:15", "details": {"bp": 95, "hr": 108, "glucose": 193.0}}
+{"event_id": 16, "event_type": "vitals_update", "patient_id": 812, "timestamp": "2025-09-14 04:58:17", "details": {}}
+{"event_id": 17, "event_type": "vitals_update", "patient_id": 539, "timestamp": "2025-08-24 11:13:53", "details": {"bp": 96, "hr": 89, "glucose": 183.1}}
+{"event_id": 18, "event_type": "vitals_update", "patient_id": 31, "timestamp": "2025-09-07 09:28:17", "details": {"bp": 127, "hr": 85, "glucose": 192.0}}
+{"event_id": 19, "event_type": "appointment_created", "patient_id": 20, "timestamp": "2025-09-14 03:03:38", "details": {}}
+{"event_id": 20, "event_type": "vitals_update", "patient_id": 661, "timestamp": "2025-08-18 08:32:46", "details": {"bp": 133, "hr": 105, "glucose": 76.5}}
+{"event_id": 21, "event_type": "appointment_created", "patient_id": 929, "timestamp": "2025-09-14 15:32:59", "details": {}}
+{"event_id": 22, "event_type": "appointment_created", "patient_id": 547, "timestamp": "2025-08-20 00:04:58", "details": {}}
+{"event_id": 23, "event_type": "appointment_created", "patient_id": 162, "timestamp": "2025-08-23 04:10:30", "details": {}}
+{"event_id": 24, "event_type": "appointment_created", "patient_id": 676, "timestamp": "2025-09-13 13:55:12", "details": {}}
+{"event_id": 25, "event_type": "vitals_update", "patient_id": 927, "timestamp": "2025-08-29 05:35:25", "details": {"bp": 130, "hr": 85, "glucose": 181.4}}
+{"event_id": 26, "event_type": "appointment_created", "patient_id": 135, "timestamp": "2025-09-05 10:29:31", "details": {}}
+{"event_id": 27, "event_type": "vitals_update", "patient_id": 235, "timestamp": "2025-09-04 03:50:36", "details": {}}
+{"event_id": 28, "event_type": "appointment_created", "patient_id": 50, "timestamp": "2025-09-15 22:53:40", "details": {"bp": 125, "hr": 84, "glucose": 75.5}}
+{"event_id": 29, "event_type": "appointment_created", "patient_id": 748, "timestamp": "2025-09-11 07:10:58", "details": {"bp": 145, "hr": 99, "glucose": 179.7}}
+{"event_id": 30, "event_type": "vitals_update", "patient_id": 576, "timestamp": "2025-09-15 06:57:19", "details": {}}
+{"event_id": 31, "event_type": "appointment_created", "patient_id": 952, "timestamp": "2025-09-15 15:49:39", "details": {}}
+{"event_id": 32, "event_type": "appointment_created", "patient_id": 411, "timestamp": "2025-09-11 01:50:39", "details": {}}
+{"event_id": 33, "event_type": "appointment_created", "patient_id": 927, "timestamp": "2025-08-19 12:01:32", "details": {"bp": 125, "hr": 98, "glucose": 178.8}}
+{"event_id": 34, "event_type": "appointment_created", "patient_id": 49, "timestamp": "2025-09-03 13:31:33", "details": {}}
+{"event_id": 35, "event_type": "vitals_update", "patient_id": 547, "timestamp": "2025-08-30 22:18:52", "details": {}}
+{"event_id": 36, "event_type": "vitals_update", "patient_id": 757, "timestamp": "2025-09-12 20:44:58", "details": {}}
+{"event_id": 37, "event_type": "appointment_created", "patient_id": 39, "timestamp": "2025-08-19 21:18:27", "details": {}}
+{"event_id": 38, "event_type": "appointment_created", "patient_id": 440, "timestamp": "2025-08-25 00:35:27", "details": {"bp": 125, "hr": 76, "glucose": 124.3}}
+{"event_id": 39, "event_type": "vitals_update", "patient_id": 632, "timestamp": "2025-09-07 23:16:35", "details": {}}
+{"event_id": 40, "event_type": "appointment_created", "patient_id": 786, "timestamp": "2025-09-02 03:04:55", "details": {}}
+{"event_id": 41, "event_type": "appointment_created", "patient_id": 47, "timestamp": "2025-09-06 06:35:26", "details": {}}
+{"event_id": 42, "event_type": "vitals_update", "patient_id": 57, "timestamp": "2025-09-01 17:19:41", "details": {}}
+{"event_id": 43, "event_type": "vitals_update", "patient_id": 178, "timestamp": "2025-08-18 00:37:33", "details": {"bp": 105, "hr": 120, "glucose": 181.7}}
+{"event_id": 44, "event_type": "vitals_update", "patient_id": 349, "timestamp": "2025-09-06 14:16:06", "details": {"bp": 140, "hr": 100, "glucose": 86.7}}
+{"event_id": 45, "event_type": "vitals_update", "patient_id": 449, "timestamp": "2025-08-21 23:32:49", "details": {}}
+{"event_id": 46, "event_type": "appointment_created", "patient_id": 772, "timestamp": "2025-08-21 22:48:58", "details": {"bp": 160, "hr": 83, "glucose": 83.0}}
+{"event_id": 47, "event_type": "vitals_update", "patient_id": 411, "timestamp": "2025-08-31 23:42:32", "details": {}}
+{"event_id": 48, "event_type": "appointment_created", "patient_id": 205, "timestamp": "2025-08-31 21:45:29", "details": {"bp": 138, "hr": 79, "glucose": 142.3}}
+{"event_id": 49, "event_type": "vitals_update", "patient_id": 807, "timestamp": "2025-09-13 18:02:54", "details": {"bp": 114, "hr": 80, "glucose": 114.2}}
+{"event_id": 50, "event_type": "vitals_update", "patient_id": 687, "timestamp": "2025-08-26 21:58:17", "details": {}}
+{"event_id": 51, "event_type": "vitals_update", "patient_id": 733, "timestamp": "2025-09-06 15:26:58", "details": {}}
+{"event_id": 52, "event_type": "appointment_created", "patient_id": 462, "timestamp": "2025-08-22 20:27:25", "details": {"bp": 148, "hr": 61, "glucose": 105.7}}
+{"event_id": 53, "event_type": "appointment_created", "patient_id": 435, "timestamp": "2025-08-24 12:32:58", "details": {}}
+{"event_id": 54, "event_type": "appointment_created", "patient_id": 951, "timestamp": "2025-08-20 13:27:11", "details": {"bp": 100, "hr": 81, "glucose": 114.7}}
+{"event_id": 55, "event_type": "appointment_created", "patient_id": 133, "timestamp": "2025-08-21 16:04:56", "details": {}}
+{"event_id": 56, "event_type": "vitals_update", "patient_id": 463, "timestamp": "2025-08-28 15:48:20", "details": {"bp": 129, "hr": 102, "glucose": 85.2}}
+{"event_id": 57, "event_type": "appointment_created", "patient_id": 338, "timestamp": "2025-09-03 00:51:14", "details": {}}
+{"event_id": 58, "event_type": "appointment_created", "patient_id": 787, "timestamp": "2025-08-28 03:56:39", "details": {"bp": 129, "hr": 61, "glucose": 72.5}}
+{"event_id": 59, "event_type": "vitals_update", "patient_id": 338, "timestamp": "2025-09-08 07:40:42", "details": {"bp": 142, "hr": 92, "glucose": 146.0}}
+{"event_id": 60, "event_type": "vitals_update", "patient_id": 227, "timestamp": "2025-08-21 01:19:03", "details": {}}
+{"event_id": 61, "event_type": "vitals_update", "patient_id": 686, "timestamp": "2025-09-14 21:08:16", "details": {"bp": 121, "hr": 91, "glucose": 99.9}}
+{"event_id": 62, "event_type": "vitals_update", "patient_id": 571, "timestamp": "2025-08-26 10:55:22", "details": {}}
+{"event_id": 63, "event_type": "vitals_update", "patient_id": 667, "timestamp": "2025-09-15 23:50:07", "details": {}}
+{"event_id": 64, "event_type": "vitals_update", "patient_id": 454, "timestamp": "2025-08-26 03:25:20", "details": {}}
+{"event_id": 65, "event_type": "vitals_update", "patient_id": 361, "timestamp": "2025-08-25 04:25:47", "details": {"bp": 125, "hr": 119, "glucose": 142.4}}
+{"event_id": 66, "event_type": "vitals_update", "patient_id": 852, "timestamp": "2025-09-03 06:08:57", "details": {}}
+{"event_id": 67, "event_type": "vitals_update", "patient_id": 751, "timestamp": "2025-08-18 16:12:26", "details": {}}
+{"event_id": 68, "event_type": "appointment_created", "patient_id": 784, "timestamp": "2025-09-13 18:45:26", "details": {"bp": 94, "hr": 101, "glucose": 137.1}}
+{"event_id": 69, "event_type": "vitals_update", "patient_id": 917, "timestamp": "2025-08-18 09:50:23", "details": {"bp": 96, "hr": 108, "glucose": 72.1}}
+{"event_id": 70, "event_type": "appointment_created", "patient_id": 436, "timestamp": "2025-09-05 20:18:32", "details": {"bp": 129, "hr": 103, "glucose": 190.0}}
+{"event_id": 71, "event_type": "appointment_created", "patient_id": 738, "timestamp": "2025-08-18 22:33:37", "details": {"bp": 148, "hr": 61, "glucose": 179.8}}
+{"event_id": 72, "event_type": "vitals_update", "patient_id": 548, "timestamp": "2025-08-27 05:26:29", "details": {"bp": 124, "hr": 85, "glucose": 127.1}}
+{"event_id": 73, "event_type": "appointment_created", "patient_id": 908, "timestamp": "2025-08-23 14:57:40", "details": {"bp": 119, "hr": 116, "glucose": 181.1}}
+{"event_id": 74, "event_type": "vitals_update", "patient_id": 605, "timestamp": "2025-08-21 06:27:31", "details": {"bp": 148, "hr": 112, "glucose": 160.5}}
+{"event_id": 75, "event_type": "vitals_update", "patient_id": 571, "timestamp": "2025-08-23 09:29:39", "details": {"bp": 94, "hr": 107, "glucose": 111.2}}
+{"event_id": 76, "event_type": "appointment_created", "patient_id": 844, "timestamp": "2025-08-28 16:21:43", "details": {}}
+{"event_id": 77, "event_type": "vitals_update", "patient_id": 178, "timestamp": "2025-09-03 09:51:51", "details": {"bp": 136, "hr": 113, "glucose": 102.1}}
+{"event_id": 78, "event_type": "appointment_created", "patient_id": 333, "timestamp": "2025-08-29 10:10:28", "details": {"bp": 141, "hr": 82, "glucose": 133.7}}
+{"event_id": 79, "event_type": "appointment_created", "patient_id": 103, "timestamp": "2025-08-21 09:40:32", "details": {"bp": 135, "hr": 75, "glucose": 174.5}}
+{"event_id": 80, "event_type": "appointment_created", "patient_id": 910, "timestamp": "2025-09-14 10:38:30", "details": {"bp": 159, "hr": 60, "glucose": 133.6}}
+{"event_id": 81, "event_type": "vitals_update", "patient_id": 529, "timestamp": "2025-09-09 04:45:42", "details": {"bp": 154, "hr": 86, "glucose": 135.5}}
+{"event_id": 82, "event_type": "appointment_created", "patient_id": 698, "timestamp": "2025-08-21 05:09:48", "details": {}}
+{"event_id": 83, "event_type": "appointment_created", "patient_id": 287, "timestamp": "2025-08-29 22:45:48", "details": {"bp": 129, "hr": 99, "glucose": 185.5}}
+{"event_id": 84, "event_type": "appointment_created", "patient_id": 199, "timestamp": "2025-09-04 17:38:03", "details": {}}
+{"event_id": 85, "event_type": "appointment_created", "patient_id": 935, "timestamp": "2025-09-09 04:03:21", "details": {}}
+{"event_id": 86, "event_type": "vitals_update", "patient_id": 392, "timestamp": "2025-08-27 23:04:26", "details": {}}
+{"event_id": 87, "event_type": "appointment_created", "patient_id": 637, "timestamp": "2025-08-29 07:09:48", "details": {}}
+{"event_id": 88, "event_type": "vitals_update", "patient_id": 550, "timestamp": "2025-08-30 21:42:05", "details": {}}
+{"event_id": 89, "event_type": "vitals_update", "patient_id": 922, "timestamp": "2025-08-22 08:30:50", "details": {}}
+{"event_id": 90, "event_type": "vitals_update", "patient_id": 459, "timestamp": "2025-09-03 05:07:08", "details": {"bp": 152, "hr": 106, "glucose": 93.0}}
+{"event_id": 91, "event_type": "appointment_created", "patient_id": 203, "timestamp": "2025-08-20 16:30:34", "details": {"bp": 131, "hr": 88, "glucose": 116.7}}
+{"event_id": 92, "event_type": "appointment_created", "patient_id": 670, "timestamp": "2025-08-31 15:30:57", "details": {"bp": 103, "hr": 119, "glucose": 104.5}}
+{"event_id": 93, "event_type": "appointment_created", "patient_id": 11, "timestamp": "2025-08-30 21:23:40", "details": {"bp": 105, "hr": 64, "glucose": 191.7}}
+{"event_id": 94, "event_type": "appointment_created", "patient_id": 491, "timestamp": "2025-08-26 15:35:34", "details": {"bp": 132, "hr": 100, "glucose": 123.4}}
+{"event_id": 95, "event_type": "appointment_created", "patient_id": 108, "timestamp": "2025-09-09 15:29:53", "details": {"bp": 138, "hr": 95, "glucose": 101.2}}
+{"event_id": 96, "event_type": "vitals_update", "patient_id": 159, "timestamp": "2025-09-09 18:47:50", "details": {}}
+{"event_id": 97, "event_type": "vitals_update", "patient_id": 962, "timestamp": "2025-08-24 14:40:52", "details": {}}
+{"event_id": 98, "event_type": "appointment_created", "patient_id": 6, "timestamp": "2025-09-13 20:14:14", "details": {"bp": 140, "hr": 88, "glucose": 143.3}}
+{"event_id": 99, "event_type": "appointment_created", "patient_id": 800, "timestamp": "2025-09-03 21:08:00", "details": {}}
+{"event_id": 100, "event_type": "vitals_update", "patient_id": 841, "timestamp": "2025-09-11 04:00:04", "details": {"bp": 155, "hr": 83, "glucose": 89.1}}
+{"event_id": 101, "event_type": "vitals_update", "patient_id": 345, "timestamp": "2025-09-15 11:18:31", "details": {}}
+{"event_id": 102, "event_type": "vitals_update", "patient_id": 514, "timestamp": "2025-09-07 03:10:35", "details": {}}
+{"event_id": 103, "event_type": "vitals_update", "patient_id": 69, "timestamp": "2025-08-27 17:12:44", "details": {}}
+{"event_id": 104, "event_type": "appointment_created", "patient_id": 498, "timestamp": "2025-08-23 13:47:05", "details": {"bp": 97, "hr": 86, "glucose": 117.0}}
+{"event_id": 105, "event_type": "vitals_update", "patient_id": 468, "timestamp": "2025-09-07 16:20:07", "details": {"bp": 132, "hr": 94, "glucose": 105.5}}
+{"event_id": 106, "event_type": "appointment_created", "patient_id": 555, "timestamp": "2025-09-06 19:17:28", "details": {"bp": 94, "hr": 62, "glucose": 127.3}}
+{"event_id": 107, "event_type": "appointment_created", "patient_id": 451, "timestamp": "2025-09-02 23:14:49", "details": {"bp": 93, "hr": 80, "glucose": 156.3}}
+{"event_id": 108, "event_type": "appointment_created", "patient_id": 103, "timestamp": "2025-08-28 05:19:37", "details": {}}
+{"event_id": 109, "event_type": "vitals_update", "patient_id": 230, "timestamp": "2025-09-08 20:38:13", "details": {}}
+{"event_id": 110, "event_type": "vitals_update", "patient_id": 410, "timestamp": "2025-09-06 10:39:31", "details": {"bp": 142, "hr": 74, "glucose": 196.3}}
+{"event_id": 111, "event_type": "appointment_created", "patient_id": 542, "timestamp": "2025-09-06 00:02:36", "details": {"bp": 95, "hr": 95, "glucose": 146.6}}
+{"event_id": 112, "event_type": "vitals_update", "patient_id": 199, "timestamp": "2025-08-28 22:10:13", "details": {"bp": 147, "hr": 66, "glucose": 146.2}}
+{"event_id": 113, "event_type": "vitals_update", "patient_id": 693, "timestamp": "2025-08-29 10:32:13", "details": {}}
+{"event_id": 114, "event_type": "vitals_update", "patient_id": 890, "timestamp": "2025-09-06 04:52:21", "details": {"bp": 94, "hr": 119, "glucose": 86.8}}
+{"event_id": 115, "event_type": "vitals_update", "patient_id": 780, "timestamp": "2025-08-29 15:22:28", "details": {}}
+{"event_id": 116, "event_type": "appointment_created", "patient_id": 938, "timestamp": "2025-09-10 14:48:53", "details": {}}
+{"event_id": 117, "event_type": "vitals_update", "patient_id": 172, "timestamp": "2025-09-01 16:15:52", "details": {}}
+{"event_id": 118, "event_type": "vitals_update", "patient_id": 887, "timestamp": "2025-09-04 10:02:43", "details": {"bp": 91, "hr": 93, "glucose": 81.8}}
+{"event_id": 119, "event_type": "appointment_created", "patient_id": 254, "timestamp": "2025-09-14 13:14:32", "details": {}}
+{"event_id": 120, "event_type": "vitals_update", "patient_id": 932, "timestamp": "2025-08-21 03:50:10", "details": {"bp": 155, "hr": 94, "glucose": 77.5}}
+{"event_id": 121, "event_type": "appointment_created", "patient_id": 126, "timestamp": "2025-08-24 11:11:26", "details": {"bp": 136, "hr": 75, "glucose": 113.5}}
+{"event_id": 122, "event_type": "appointment_created", "patient_id": 228, "timestamp": "2025-09-04 22:22:17", "details": {"bp": 118, "hr": 106, "glucose": 72.3}}
+{"event_id": 123, "event_type": "vitals_update", "patient_id": 70, "timestamp": "2025-09-05 03:06:19", "details": {"bp": 102, "hr": 88, "glucose": 122.8}}
+{"event_id": 124, "event_type": "appointment_created", "patient_id": 932, "timestamp": "2025-08-27 05:07:14", "details": {"bp": 123, "hr": 77, "glucose": 182.5}}
+{"event_id": 125, "event_type": "vitals_update", "patient_id": 311, "timestamp": "2025-09-15 06:23:20", "details": {}}
+{"event_id": 126, "event_type": "vitals_update", "patient_id": 89, "timestamp": "2025-08-30 02:31:00", "details": {"bp": 149, "hr": 120, "glucose": 74.5}}
+{"event_id": 127, "event_type": "appointment_created", "patient_id": 842, "timestamp": "2025-08-25 12:36:42", "details": {}}
+{"event_id": 128, "event_type": "appointment_created", "patient_id": 993, "timestamp": "2025-08-17 23:24:04", "details": {}}
+{"event_id": 129, "event_type": "appointment_created", "patient_id": 262, "timestamp": "2025-08-26 09:51:47", "details": {}}
+{"event_id": 130, "event_type": "appointment_created", "patient_id": 466, "timestamp": "2025-08-25 07:13:00", "details": {"bp": 144, "hr": 110, "glucose": 178.0}}
+{"event_id": 131, "event_type": "vitals_update", "patient_id": 851, "timestamp": "2025-09-02 00:56:18", "details": {"bp": 129, "hr": 80, "glucose": 159.7}}
+{"event_id": 132, "event_type": "vitals_update", "patient_id": 745, "timestamp": "2025-08-29 08:34:48", "details": {"bp": 128, "hr": 114, "glucose": 81.8}}
+{"event_id": 133, "event_type": "appointment_created", "patient_id": 765, "timestamp": "2025-09-13 10:35:49", "details": {}}
+{"event_id": 134, "event_type": "appointment_created", "patient_id": 171, "timestamp": "2025-08-31 11:24:16", "details": {}}
+{"event_id": 135, "event_type": "appointment_created", "patient_id": 286, "timestamp": "2025-08-18 09:20:41", "details": {}}
+{"event_id": 136, "event_type": "vitals_update", "patient_id": 321, "timestamp": "2025-09-06 10:41:13", "details": {"bp": 99, "hr": 60, "glucose": 149.4}}
+{"event_id": 137, "event_type": "vitals_update", "patient_id": 46, "timestamp": "2025-08-23 05:40:58", "details": {"bp": 157, "hr": 68, "glucose": 142.7}}
+{"event_id": 138, "event_type": "vitals_update", "patient_id": 383, "timestamp": "2025-09-13 20:47:18", "details": {}}
+{"event_id": 139, "event_type": "vitals_update", "patient_id": 458, "timestamp": "2025-08-17 13:17:01", "details": {"bp": 106, "hr": 78, "glucose": 173.8}}
+{"event_id": 140, "event_type": "appointment_created", "patient_id": 19, "timestamp": "2025-09-16 02:21:27", "details": {}}
+{"event_id": 141, "event_type": "appointment_created", "patient_id": 718, "timestamp": "2025-08-17 19:13:52", "details": {}}
+{"event_id": 142, "event_type": "appointment_created", "patient_id": 668, "timestamp": "2025-09-07 12:12:42", "details": {}}
+{"event_id": 143, "event_type": "vitals_update", "patient_id": 450, "timestamp": "2025-09-11 13:18:12", "details": {"bp": 152, "hr": 108, "glucose": 141.8}}
+{"event_id": 144, "event_type": "vitals_update", "patient_id": 887, "timestamp": "2025-08-18 20:50:01", "details": {"bp": 151, "hr": 103, "glucose": 189.7}}
+{"event_id": 145, "event_type": "vitals_update", "patient_id": 310, "timestamp": "2025-08-21 22:05:15", "details": {}}
+{"event_id": 146, "event_type": "appointment_created", "patient_id": 300, "timestamp": "2025-09-01 23:45:44", "details": {"bp": 99, "hr": 77, "glucose": 173.8}}
+{"event_id": 147, "event_type": "appointment_created", "patient_id": 780, "timestamp": "2025-08-20 12:12:52", "details": {"bp": 98, "hr": 103, "glucose": 125.8}}
+{"event_id": 148, "event_type": "vitals_update", "patient_id": 168, "timestamp": "2025-09-04 05:53:10", "details": {}}
+{"event_id": 149, "event_type": "vitals_update", "patient_id": 332, "timestamp": "2025-09-16 07:54:12", "details": {}}
+{"event_id": 150, "event_type": "vitals_update", "patient_id": 531, "timestamp": "2025-08-25 15:46:56", "details": {}}
+{"event_id": 151, "event_type": "appointment_created", "patient_id": 810, "timestamp": "2025-08-23 00:51:05", "details": {}}
+{"event_id": 152, "event_type": "appointment_created", "patient_id": 359, "timestamp": "2025-08-28 22:29:38", "details": {"bp": 140, "hr": 92, "glucose": 176.2}}
+{"event_id": 153, "event_type": "appointment_created", "patient_id": 225, "timestamp": "2025-09-01 06:19:04", "details": {"bp": 100, "hr": 65, "glucose": 118.1}}
+{"event_id": 154, "event_type": "vitals_update", "patient_id": 453, "timestamp": "2025-08-24 05:43:59", "details": {}}
+{"event_id": 155, "event_type": "appointment_created", "patient_id": 728, "timestamp": "2025-08-22 17:58:22", "details": {"bp": 103, "hr": 65, "glucose": 185.0}}
+{"event_id": 156, "event_type": "appointment_created", "patient_id": 28, "timestamp": "2025-08-29 13:56:39", "details": {}}
+{"event_id": 157, "event_type": "vitals_update", "patient_id": 661, "timestamp": "2025-08-23 10:41:34", "details": {}}
+{"event_id": 158, "event_type": "appointment_created", "patient_id": 878, "timestamp": "2025-08-20 15:08:11", "details": {}}
+{"event_id": 159, "event_type": "appointment_created", "patient_id": 910, "timestamp": "2025-09-13 15:12:51", "details": {"bp": 146, "hr": 64, "glucose": 71.4}}
+{"event_id": 160, "event_type": "vitals_update", "patient_id": 746, "timestamp": "2025-09-14 02:15:50", "details": {"bp": 98, "hr": 83, "glucose": 177.9}}
+{"event_id": 161, "event_type": "appointment_created", "patient_id": 979, "timestamp": "2025-09-08 23:12:39", "details": {"bp": 129, "hr": 86, "glucose": 172.2}}
+{"event_id": 162, "event_type": "appointment_created", "patient_id": 897, "timestamp": "2025-09-03 06:01:11", "details": {}}
+{"event_id": 163, "event_type": "vitals_update", "patient_id": 638, "timestamp": "2025-08-26 06:21:21", "details": {}}
+{"event_id": 164, "event_type": "vitals_update", "patient_id": 527, "timestamp": "2025-08-19 15:31:23", "details": {}}
+{"event_id": 165, "event_type": "appointment_created", "patient_id": 111, "timestamp": "2025-09-02 18:13:21", "details": {"bp": 139, "hr": 87, "glucose": 105.2}}
+{"event_id": 166, "event_type": "vitals_update", "patient_id": 615, "timestamp": "2025-08-25 16:38:33", "details": {}}
+{"event_id": 167, "event_type": "appointment_created", "patient_id": 2, "timestamp": "2025-09-08 16:41:37", "details": {}}
+{"event_id": 168, "event_type": "vitals_update", "patient_id": 842, "timestamp": "2025-09-06 15:05:19", "details": {}}
+{"event_id": 169, "event_type": "vitals_update", "patient_id": 178, "timestamp": "2025-08-30 21:48:22", "details": {"bp": 124, "hr": 72, "glucose": 134.7}}
+{"event_id": 170, "event_type": "appointment_created", "patient_id": 495, "timestamp": "2025-09-15 10:45:53", "details": {}}
+{"event_id": 171, "event_type": "appointment_created", "patient_id": 785, "timestamp": "2025-09-05 07:00:37", "details": {"bp": 116, "hr": 98, "glucose": 85.0}}
+{"event_id": 172, "event_type": "appointment_created", "patient_id": 869, "timestamp": "2025-09-15 14:33:55", "details": {}}
+{"event_id": 173, "event_type": "appointment_created", "patient_id": 957, "timestamp": "2025-09-16 07:56:27", "details": {}}
+{"event_id": 174, "event_type": "vitals_update", "patient_id": 440, "timestamp": "2025-09-03 15:10:36", "details": {}}
+{"event_id": 175, "event_type": "appointment_created", "patient_id": 225, "timestamp": "2025-09-03 17:23:10", "details": {"bp": 106, "hr": 98, "glucose": 166.7}}
+{"event_id": 176, "event_type": "appointment_created", "patient_id": 523, "timestamp": "2025-08-21 05:27:01", "details": {"bp": 121, "hr": 96, "glucose": 146.0}}
+{"event_id": 177, "event_type": "appointment_created", "patient_id": 720, "timestamp": "2025-09-12 12:23:08", "details": {"bp": 97, "hr": 106, "glucose": 191.7}}
+{"event_id": 178, "event_type": "vitals_update", "patient_id": 936, "timestamp": "2025-09-08 16:26:18", "details": {}}
+{"event_id": 179, "event_type": "appointment_created", "patient_id": 357, "timestamp": "2025-08-25 21:52:52", "details": {}}
+{"event_id": 180, "event_type": "vitals_update", "patient_id": 459, "timestamp": "2025-09-05 18:49:49", "details": {"bp": 160, "hr": 110, "glucose": 99.4}}
+{"event_id": 181, "event_type": "vitals_update", "patient_id": 595, "timestamp": "2025-08-26 10:21:39", "details": {}}
+{"event_id": 182, "event_type": "appointment_created", "patient_id": 256, "timestamp": "2025-08-29 06:23:14", "details": {}}
+{"event_id": 183, "event_type": "appointment_created", "patient_id": 235, "timestamp": "2025-09-06 22:16:19", "details": {}}
+{"event_id": 184, "event_type": "appointment_created", "patient_id": 101, "timestamp": "2025-08-23 18:46:41", "details": {"bp": 159, "hr": 110, "glucose": 92.6}}
+{"event_id": 185, "event_type": "vitals_update", "patient_id": 823, "timestamp": "2025-09-16 08:13:14", "details": {"bp": 150, "hr": 64, "glucose": 117.1}}
+{"event_id": 186, "event_type": "appointment_created", "patient_id": 836, "timestamp": "2025-09-15 22:50:08", "details": {"bp": 90, "hr": 95, "glucose": 170.1}}
+{"event_id": 187, "event_type": "vitals_update", "patient_id": 108, "timestamp": "2025-09-12 05:40:44", "details": {"bp": 153, "hr": 74, "glucose": 84.7}}
+{"event_id": 188, "event_type": "vitals_update", "patient_id": 710, "timestamp": "2025-09-05 04:32:39", "details": {"bp": 104, "hr": 102, "glucose": 189.6}}
+{"event_id": 189, "event_type": "appointment_created", "patient_id": 212, "timestamp": "2025-08-30 09:10:05", "details": {"bp": 122, "hr": 87, "glucose": 99.3}}
+{"event_id": 190, "event_type": "vitals_update", "patient_id": 140, "timestamp": "2025-09-06 13:48:26", "details": {"bp": 154, "hr": 89, "glucose": 74.9}}
+{"event_id": 191, "event_type": "appointment_created", "patient_id": 63, "timestamp": "2025-09-11 12:27:07", "details": {}}
+{"event_id": 192, "event_type": "appointment_created", "patient_id": 553, "timestamp": "2025-08-19 08:37:13", "details": {"bp": 144, "hr": 106, "glucose": 175.5}}
+{"event_id": 193, "event_type": "appointment_created", "patient_id": 738, "timestamp": "2025-09-08 10:16:59", "details": {"bp": 116, "hr": 102, "glucose": 173.8}}
+{"event_id": 194, "event_type": "appointment_created", "patient_id": 105, "timestamp": "2025-09-03 20:05:17", "details": {"bp": 121, "hr": 67, "glucose": 196.3}}
+{"event_id": 195, "event_type": "vitals_update", "patient_id": 510, "timestamp": "2025-08-29 13:59:49", "details": {}}
+{"event_id": 196, "event_type": "vitals_update", "patient_id": 138, "timestamp": "2025-09-02 14:07:31", "details": {}}
+{"event_id": 197, "event_type": "appointment_created", "patient_id": 276, "timestamp": "2025-09-05 07:25:30", "details": {"bp": 107, "hr": 118, "glucose": 83.9}}
+{"event_id": 198, "event_type": "vitals_update", "patient_id": 588, "timestamp": "2025-08-31 06:07:06", "details": {}}
+{"event_id": 199, "event_type": "appointment_created", "patient_id": 357, "timestamp": "2025-09-03 23:28:48", "details": {}}
+{"event_id": 200, "event_type": "appointment_created", "patient_id": 909, "timestamp": "2025-09-08 08:43:23", "details": {"bp": 130, "hr": 74, "glucose": 187.9}}
+{"event_id": 201, "event_type": "vitals_update", "patient_id": 673, "timestamp": "2025-08-23 22:53:39", "details": {}}
+{"event_id": 202, "event_type": "vitals_update", "patient_id": 152, "timestamp": "2025-08-22 11:20:04", "details": {"bp": 97, "hr": 66, "glucose": 161.2}}
+{"event_id": 203, "event_type": "vitals_update", "patient_id": 737, "timestamp": "2025-08-27 15:52:31", "details": {}}
+{"event_id": 204, "event_type": "vitals_update", "patient_id": 316, "timestamp": "2025-09-03 10:54:36", "details": {}}
+{"event_id": 205, "event_type": "appointment_created", "patient_id": 97, "timestamp": "2025-08-21 07:17:57", "details": {}}
+{"event_id": 206, "event_type": "appointment_created", "patient_id": 451, "timestamp": "2025-09-09 17:58:00", "details": {"bp": 150, "hr": 64, "glucose": 102.3}}
+{"event_id": 207, "event_type": "vitals_update", "patient_id": 883, "timestamp": "2025-08-27 19:15:13", "details": {"bp": 131, "hr": 64, "glucose": 91.7}}
+{"event_id": 208, "event_type": "appointment_created", "patient_id": 561, "timestamp": "2025-09-03 13:00:55", "details": {"bp": 131, "hr": 97, "glucose": 118.7}}
+{"event_id": 209, "event_type": "vitals_update", "patient_id": 508, "timestamp": "2025-08-30 08:15:52", "details": {}}
+{"event_id": 210, "event_type": "vitals_update", "patient_id": 109, "timestamp": "2025-08-29 21:51:02", "details": {"bp": 131, "hr": 67, "glucose": 80.7}}
+{"event_id": 211, "event_type": "appointment_created", "patient_id": 637, "timestamp": "2025-08-25 04:28:21", "details": {}}
+{"event_id": 212, "event_type": "vitals_update", "patient_id": 369, "timestamp": "2025-09-13 19:02:38", "details": {}}
+{"event_id": 213, "event_type": "appointment_created", "patient_id": 818, "timestamp": "2025-09-05 06:02:24", "details": {}}
+{"event_id": 214, "event_type": "vitals_update", "patient_id": 267, "timestamp": "2025-09-04 19:02:35", "details": {}}
+{"event_id": 215, "event_type": "appointment_created", "patient_id": 166, "timestamp": "2025-09-13 23:13:57", "details": {}}
+{"event_id": 216, "event_type": "appointment_created", "patient_id": 91, "timestamp": "2025-09-13 12:59:53", "details": {"bp": 95, "hr": 94, "glucose": 120.1}}
+{"event_id": 217, "event_type": "vitals_update", "patient_id": 623, "timestamp": "2025-09-02 13:52:45", "details": {"bp": 160, "hr": 99, "glucose": 90.1}}
+{"event_id": 218, "event_type": "vitals_update", "patient_id": 686, "timestamp": "2025-09-09 16:58:31", "details": {}}
+{"event_id": 219, "event_type": "vitals_update", "patient_id": 270, "timestamp": "2025-08-29 18:55:15", "details": {}}
+{"event_id": 220, "event_type": "appointment_created", "patient_id": 418, "timestamp": "2025-09-11 18:34:32", "details": {"bp": 157, "hr": 82, "glucose": 94.6}}
+{"event_id": 221, "event_type": "appointment_created", "patient_id": 448, "timestamp": "2025-08-18 20:46:37", "details": {}}
+{"event_id": 222, "event_type": "vitals_update", "patient_id": 432, "timestamp": "2025-08-22 14:06:01", "details": {"bp": 122, "hr": 73, "glucose": 160.0}}
+{"event_id": 223, "event_type": "appointment_created", "patient_id": 454, "timestamp": "2025-08-18 16:09:31", "details": {"bp": 130, "hr": 86, "glucose": 104.4}}
+{"event_id": 224, "event_type": "appointment_created", "patient_id": 768, "timestamp": "2025-09-06 08:38:43", "details": {}}
+{"event_id": 225, "event_type": "vitals_update", "patient_id": 11, "timestamp": "2025-08-23 08:42:14", "details": {"bp": 156, "hr": 91, "glucose": 111.5}}
+{"event_id": 226, "event_type": "vitals_update", "patient_id": 732, "timestamp": "2025-08-21 17:16:34", "details": {"bp": 111, "hr": 78, "glucose": 193.2}}
+{"event_id": 227, "event_type": "vitals_update", "patient_id": 30, "timestamp": "2025-08-27 08:18:31", "details": {}}
+{"event_id": 228, "event_type": "appointment_created", "patient_id": 694, "timestamp": "2025-09-01 09:14:24", "details": {}}
+{"event_id": 229, "event_type": "appointment_created", "patient_id": 237, "timestamp": "2025-08-25 09:12:08", "details": {"bp": 116, "hr": 111, "glucose": 116.8}}
+{"event_id": 230, "event_type": "appointment_created", "patient_id": 339, "timestamp": "2025-08-22 18:21:48", "details": {"bp": 154, "hr": 112, "glucose": 168.6}}
+{"event_id": 231, "event_type": "appointment_created", "patient_id": 766, "timestamp": "2025-09-16 04:20:03", "details": {"bp": 160, "hr": 89, "glucose": 110.5}}
+{"event_id": 232, "event_type": "appointment_created", "patient_id": 357, "timestamp": "2025-09-02 22:05:06", "details": {}}
+{"event_id": 233, "event_type": "vitals_update", "patient_id": 898, "timestamp": "2025-08-22 22:07:56", "details": {"bp": 123, "hr": 90, "glucose": 182.8}}
+{"event_id": 234, "event_type": "vitals_update", "patient_id": 218, "timestamp": "2025-08-23 19:34:02", "details": {"bp": 130, "hr": 99, "glucose": 95.0}}
+{"event_id": 235, "event_type": "vitals_update", "patient_id": 428, "timestamp": "2025-08-26 23:31:22", "details": {"bp": 107, "hr": 81, "glucose": 90.4}}
+{"event_id": 236, "event_type": "appointment_created", "patient_id": 172, "timestamp": "2025-09-10 16:27:54", "details": {}}
+{"event_id": 237, "event_type": "vitals_update", "patient_id": 714, "timestamp": "2025-09-06 17:52:59", "details": {"bp": 150, "hr": 119, "glucose": 149.8}}
+{"event_id": 238, "event_type": "appointment_created", "patient_id": 118, "timestamp": "2025-08-27 05:37:43", "details": {"bp": 96, "hr": 93, "glucose": 185.9}}
+{"event_id": 239, "event_type": "vitals_update", "patient_id": 596, "timestamp": "2025-08-21 17:30:40", "details": {"bp": 123, "hr": 92, "glucose": 189.4}}
+{"event_id": 240, "event_type": "vitals_update", "patient_id": 692, "timestamp": "2025-09-12 16:49:59", "details": {}}
+{"event_id": 241, "event_type": "appointment_created", "patient_id": 460, "timestamp": "2025-09-11 14:30:17", "details": {"bp": 138, "hr": 85, "glucose": 114.0}}
+{"event_id": 242, "event_type": "appointment_created", "patient_id": 160, "timestamp": "2025-09-09 13:22:38", "details": {"bp": 110, "hr": 115, "glucose": 173.8}}
+{"event_id": 243, "event_type": "appointment_created", "patient_id": 829, "timestamp": "2025-08-19 09:43:08", "details": {"bp": 103, "hr": 111, "glucose": 138.6}}
+{"event_id": 244, "event_type": "vitals_update", "patient_id": 796, "timestamp": "2025-08-19 07:02:47", "details": {"bp": 100, "hr": 79, "glucose": 105.1}}
+{"event_id": 245, "event_type": "vitals_update", "patient_id": 382, "timestamp": "2025-08-30 17:10:56", "details": {"bp": 145, "hr": 104, "glucose": 152.8}}
+{"event_id": 246, "event_type": "vitals_update", "patient_id": 326, "timestamp": "2025-09-09 03:50:52", "details": {"bp": 141, "hr": 101, "glucose": 148.3}}
+{"event_id": 247, "event_type": "vitals_update", "patient_id": 267, "timestamp": "2025-09-03 11:55:31", "details": {"bp": 151, "hr": 68, "glucose": 101.3}}
+{"event_id": 248, "event_type": "appointment_created", "patient_id": 191, "timestamp": "2025-08-23 00:12:44", "details": {"bp": 133, "hr": 85, "glucose": 84.2}}
+{"event_id": 249, "event_type": "appointment_created", "patient_id": 53, "timestamp": "2025-09-14 12:59:30", "details": {"bp": 125, "hr": 75, "glucose": 121.4}}
+{"event_id": 250, "event_type": "appointment_created", "patient_id": 682, "timestamp": "2025-08-27 12:21:45", "details": {}}
+{"event_id": 251, "event_type": "appointment_created", "patient_id": 31, "timestamp": "2025-08-24 18:46:15", "details": {}}
+{"event_id": 252, "event_type": "vitals_update", "patient_id": 395, "timestamp": "2025-09-02 20:27:40", "details": {"bp": 108, "hr": 64, "glucose": 166.2}}
+{"event_id": 253, "event_type": "vitals_update", "patient_id": 483, "timestamp": "2025-08-19 00:24:44", "details": {"bp": 112, "hr": 80, "glucose": 80.7}}
+{"event_id": 254, "event_type": "vitals_update", "patient_id": 487, "timestamp": "2025-08-20 03:37:58", "details": {}}
+{"event_id": 255, "event_type": "vitals_update", "patient_id": 637, "timestamp": "2025-09-07 18:31:46", "details": {"bp": 160, "hr": 95, "glucose": 95.1}}
+{"event_id": 256, "event_type": "vitals_update", "patient_id": 133, "timestamp": "2025-09-14 02:08:06", "details": {}}
+{"event_id": 257, "event_type": "vitals_update", "patient_id": 567, "timestamp": "2025-09-04 08:09:44", "details": {"bp": 153, "hr": 72, "glucose": 86.8}}
+{"event_id": 258, "event_type": "vitals_update", "patient_id": 713, "timestamp": "2025-09-02 23:52:18", "details": {}}
+{"event_id": 259, "event_type": "vitals_update", "patient_id": 66, "timestamp": "2025-08-23 01:46:51", "details": {}}
+{"event_id": 260, "event_type": "vitals_update", "patient_id": 308, "timestamp": "2025-08-26 17:22:10", "details": {}}
+{"event_id": 261, "event_type": "vitals_update", "patient_id": 622, "timestamp": "2025-09-15 09:56:24", "details": {}}
+{"event_id": 262, "event_type": "vitals_update", "patient_id": 108, "timestamp": "2025-09-04 20:32:26", "details": {}}
+{"event_id": 263, "event_type": "vitals_update", "patient_id": 327, "timestamp": "2025-09-07 04:32:11", "details": {"bp": 151, "hr": 67, "glucose": 124.1}}
+{"event_id": 264, "event_type": "vitals_update", "patient_id": 92, "timestamp": "2025-09-05 18:13:12", "details": {}}
+{"event_id": 265, "event_type": "vitals_update", "patient_id": 243, "timestamp": "2025-09-10 14:07:37", "details": {}}
+{"event_id": 266, "event_type": "appointment_created", "patient_id": 719, "timestamp": "2025-08-30 03:35:56", "details": {}}
+{"event_id": 267, "event_type": "appointment_created", "patient_id": 631, "timestamp": "2025-09-03 19:57:56", "details": {"bp": 121, "hr": 117, "glucose": 92.3}}
+{"event_id": 268, "event_type": "vitals_update", "patient_id": 523, "timestamp": "2025-09-01 23:31:24", "details": {}}
+{"event_id": 269, "event_type": "vitals_update", "patient_id": 703, "timestamp": "2025-08-26 23:19:57", "details": {}}
+{"event_id": 270, "event_type": "appointment_created", "patient_id": 122, "timestamp": "2025-08-23 19:48:44", "details": {}}
+{"event_id": 271, "event_type": "appointment_created", "patient_id": 222, "timestamp": "2025-08-27 22:09:48", "details": {"bp": 157, "hr": 100, "glucose": 94.1}}
+{"event_id": 272, "event_type": "appointment_created", "patient_id": 701, "timestamp": "2025-08-26 02:51:26", "details": {"bp": 92, "hr": 77, "glucose": 114.4}}
+{"event_id": 273, "event_type": "vitals_update", "patient_id": 402, "timestamp": "2025-08-31 23:04:45", "details": {"bp": 109, "hr": 116, "glucose": 159.8}}
+{"event_id": 274, "event_type": "appointment_created", "patient_id": 717, "timestamp": "2025-08-31 14:30:48", "details": {}}
+{"event_id": 275, "event_type": "appointment_created", "patient_id": 551, "timestamp": "2025-08-19 00:14:38", "details": {"bp": 135, "hr": 93, "glucose": 157.0}}
+{"event_id": 276, "event_type": "vitals_update", "patient_id": 168, "timestamp": "2025-08-22 13:15:06", "details": {"bp": 96, "hr": 115, "glucose": 86.2}}
+{"event_id": 277, "event_type": "appointment_created", "patient_id": 80, "timestamp": "2025-08-19 09:46:41", "details": {"bp": 142, "hr": 80, "glucose": 198.0}}
+{"event_id": 278, "event_type": "appointment_created", "patient_id": 122, "timestamp": "2025-08-18 18:01:38", "details": {}}
+{"event_id": 279, "event_type": "vitals_update", "patient_id": 250, "timestamp": "2025-08-20 17:28:36", "details": {}}
+{"event_id": 280, "event_type": "appointment_created", "patient_id": 376, "timestamp": "2025-08-29 21:47:52", "details": {"bp": 96, "hr": 87, "glucose": 117.2}}
+{"event_id": 281, "event_type": "appointment_created", "patient_id": 102, "timestamp": "2025-08-31 06:16:52", "details": {}}
+{"event_id": 282, "event_type": "vitals_update", "patient_id": 30, "timestamp": "2025-08-21 17:58:06", "details": {"bp": 91, "hr": 79, "glucose": 73.4}}
+{"event_id": 283, "event_type": "appointment_created", "patient_id": 36, "timestamp": "2025-09-02 10:20:26", "details": {"bp": 123, "hr": 73, "glucose": 159.8}}
+{"event_id": 284, "event_type": "appointment_created", "patient_id": 732, "timestamp": "2025-09-04 19:40:21", "details": {}}
+{"event_id": 285, "event_type": "vitals_update", "patient_id": 686, "timestamp": "2025-08-18 20:36:07", "details": {}}
+{"event_id": 286, "event_type": "appointment_created", "patient_id": 940, "timestamp": "2025-09-15 21:55:49", "details": {"bp": 143, "hr": 92, "glucose": 116.9}}
+{"event_id": 287, "event_type": "appointment_created", "patient_id": 855, "timestamp": "2025-08-30 17:59:14", "details": {}}
+{"event_id": 288, "event_type": "vitals_update", "patient_id": 444, "timestamp": "2025-09-11 07:56:05", "details": {"bp": 106, "hr": 94, "glucose": 180.5}}
+{"event_id": 289, "event_type": "vitals_update", "patient_id": 456, "timestamp": "2025-09-15 21:20:38", "details": {}}
+{"event_id": 290, "event_type": "appointment_created", "patient_id": 304, "timestamp": "2025-09-05 06:15:51", "details": {}}
+{"event_id": 291, "event_type": "vitals_update", "patient_id": 914, "timestamp": "2025-09-14 00:42:20", "details": {}}
+{"event_id": 292, "event_type": "vitals_update", "patient_id": 722, "timestamp": "2025-09-06 07:05:43", "details": {}}
+{"event_id": 293, "event_type": "appointment_created", "patient_id": 619, "timestamp": "2025-09-07 06:10:37", "details": {"bp": 140, "hr": 70, "glucose": 70.7}}
+{"event_id": 294, "event_type": "vitals_update", "patient_id": 362, "timestamp": "2025-08-27 04:13:56", "details": {}}
+{"event_id": 295, "event_type": "appointment_created", "patient_id": 415, "timestamp": "2025-08-19 09:21:42", "details": {}}
+{"event_id": 296, "event_type": "appointment_created", "patient_id": 3, "timestamp": "2025-08-20 02:24:04", "details": {"bp": 92, "hr": 77, "glucose": 177.7}}
+{"event_id": 297, "event_type": "appointment_created", "patient_id": 581, "timestamp": "2025-08-28 04:10:29", "details": {}}
+{"event_id": 298, "event_type": "vitals_update", "patient_id": 133, "timestamp": "2025-08-31 16:58:27", "details": {"bp": 149, "hr": 108, "glucose": 143.1}}
+{"event_id": 299, "event_type": "appointment_created", "patient_id": 338, "timestamp": "2025-08-20 04:37:13", "details": {}}
+{"event_id": 300, "event_type": "vitals_update", "patient_id": 340, "timestamp": "2025-09-03 23:42:23", "details": {}}
