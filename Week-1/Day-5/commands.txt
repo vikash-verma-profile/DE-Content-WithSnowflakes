@@ -1,0 +1,1 @@
+scp -i connectvm.pem "C:\Users\om\Desktop\DE-WithSnowflake\Week-1\Day-5\python-file\producer.py" azureuser@20.3.242.0:producer.py
